@@ -7,7 +7,7 @@
 ### כללי האירגון
 1. :trollface::children_crossing: לשמור על שפה נקיה
 2. :dark_sunglasses::lock: (private repository) דברים הקשורים במטלות ומשימות במאגר פרטי בלבד
-3. :computer::desktop_computer: לשמור על תוכן תוכן הקשור בתחומי המחשב בלבד
+3. :computer::desktop_computer: לשמור על תוכן הקשור בתחומי המחשב בלבד
 
 #### :1st_place_medal: תודה :trophy:
 ###### :heart: תודה לכל המצטרפים ולכל מי שתורם לאירגון
