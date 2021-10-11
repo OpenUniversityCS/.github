@@ -1,7 +1,7 @@
 ## :octocat: ברוכים הבאים לאירגון קוד פתוח של האונברסיטה הפתוחה :smile::smile:
-### מטרת האירגון 
-1. :thinking::hand_over_mouth: לחבר בין הסטודנטים של המחלקה למדעי המחשב
-2. :man_student::female_student: דרך קלה לשתף קוד ולעבוד ביחד עם סטודנטים אחרים 
+### :thinking::hand_over_mouth: מטרת האירגון 
+1. :two_women_holding_hands::two_men_holding_hands: לחבר בין הסטודנטים של המחלקה למדעי המחשב
+2. :man_student::woman_student: דרך קלה לשתף קוד ולעבוד ביחד עם סטודנטים אחרים 
 3. :books::toolbox: לצבור נסיון עם גיט ופרוייקטים משותפים של קוד פתוח
 
 ### כללי האירגון
